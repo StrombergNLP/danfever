@@ -2,7 +2,11 @@
 
 Automatic detection of false claims is a difficult task. Existing data to support this task has largely been limited to English. We present a dataset, DANFEVER, intended for claim verification in Danish. The dataset builds upon the task framing of the FEVER fact extraction and verification challenge. DANFEVER can be used for creating models for detecting mis- & disinformation in Danish as well as for verification in multilingual settings.
 
-This repository contains the data for the DanFEVER task. You can read more about [this dataset](https://stromberg.ai/publication/danfever/), or about the [FEVER task](https://fever.ai/).
+This repository contains the data for the DanFEVER task. You can read more about [this dataset](https://stromberg.ai/publication/danfever/), or about the [FEVER task](https://fever.ai/).  
+
+Dataset published at [NoDaLiDa 2021](https://aclanthology.org/2021.nodalida-main.47.pdf).
+
+Format description is in the PDF.
 
 ## License
 
@@ -25,3 +29,4 @@ Bibliographic reference:
     pages = "422--428"
 }
 ```
+
